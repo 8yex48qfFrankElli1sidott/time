@@ -10,3 +10,4 @@
 // Final cleanup and optimization
 // Fix a bug
 // Add new login
+// README documentation
